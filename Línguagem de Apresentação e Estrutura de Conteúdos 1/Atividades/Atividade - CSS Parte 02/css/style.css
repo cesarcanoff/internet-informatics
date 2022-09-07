@@ -1,0 +1,22 @@
+body{
+	font-family:Calibri;
+	margin:0;
+}
+header{
+	background:#1793b5;
+	color:white;
+	font-size:25px;
+	height:80px;
+}
+nav{
+	background:#666666;
+	height:50px;
+}
+a{
+	color:white;
+	font-size:20px;
+}
+a:hover{
+	color:#1793b5;
+	
+}

@@ -1,0 +1,40 @@
+body{
+	font-family:Arial;
+	margin:0;
+}
+header{
+	background:#1793b5;
+	color:white;
+	font-size:25px;
+	height:80px;
+}
+nav{
+	background:#666666;
+	height:50px;
+}
+a{
+	color:white;
+	font-size:20px;
+}
+div.banner{
+	width: 100%;
+	height: 350px;
+	overflow: hidden;
+	position: relative;
+}
+div.banner img{
+	width: 100%;
+}
+div.banner h1{
+	background:rgba(206, 39, 39, 0.5);
+	padding: 15px;
+	color:white;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	width: 500px;
+	position: absolute;
+	bottom: 50px;
+	right: 50px;
+
+}

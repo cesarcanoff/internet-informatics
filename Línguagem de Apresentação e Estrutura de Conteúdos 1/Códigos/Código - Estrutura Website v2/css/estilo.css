@@ -1,0 +1,18 @@
+body{
+	font-family:Calibri;
+	margin:0;
+}
+header{
+	height:80px;
+	box-shadow: 0 2px 5px #333333;
+}
+nav{
+	margin-top:2px;
+	height:40px;
+	background:#f59175;
+}
+a{
+	text-decoration:none;
+	color:white;
+	text-transform:uppercase;
+}
